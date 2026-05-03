@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Funda Silicona Negra",
+    "precio": 14990,
+    "descripcion": "Funda de silicona suave al tacto, protección contra golpes y caídas. Compatible con carga inalámbrica.",
+    "imagen": "https://images.unsplash.com/photo-1585325701956-60dd9c8553bc?w=300",
+    "categoria": "silicona",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "nombre": "Funda Transparente Antigolpes",
+    "precio": 12990,
+    "descripcion": "Funda transparente con bordes reforzados. No amarillea con el tiempo. Muestra el diseño original del iPhone.",
+    "imagen": "https://images.unsplash.com/photo-1603304871099-7e7d7e3b6f7f?w=300",
+    "categoria": "transparente",
+    "stock": 40
+  },
+  {
+    "id": 3,
+    "nombre": "Funda Cuero Azul Marino",
+    "precio": 24990,
+    "descripcion": "Elegante funda de cuero genuino. Exclusiva y premium. Protección completa con estilo.",
+    "imagen": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=300",
+    "categoria": "cuero",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "nombre": "Funda MagSafe Blanca",
+    "precio": 18990,
+    "descripcion": "Funda oficial con imanes MagSafe integrados. Accesorios magnéticos compatibles.",
+    "imagen": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=300",
+    "categoria": "magsafe",
+    "stock": 30
+  },
+  {
+    "id": 5,
+    "nombre": "Funda Con Patrón Floral",
+    "precio": 16990,
+    "descripcion": "Diseño floral exclusivo. Impresión de alta calidad. Protección resistente.",
+    "imagen": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?w=300",
+    "categoria": "diseño",
+    "stock": 20
+  },
+  {
+    "id": 6,
+    "nombre": "Funda Carbon Fiber",
+    "precio": 29990,
+    "descripcion": "Fibra de carbono real. Súper ligera y resistente. Acabado mate profesional.",
+    "imagen": "https://images.unsplash.com/photo-1586500036706-41963de24d8b?w=300",
+    "categoria": "premium",
+    "stock": 10
+  }
+]
